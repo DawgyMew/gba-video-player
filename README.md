@@ -4,6 +4,8 @@ Build a Gameboy Advance executable that plays your favorite videos!
 
 (Reminder: Put a screenshot/gif here)
 
+![image](plink-cat-plink.gif)
+
 # Dependencies
 
 - bash interpreter
